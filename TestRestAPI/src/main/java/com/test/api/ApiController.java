@@ -13,5 +13,6 @@ public class ApiController {
 	public String test() {
 		return "This api is created to refresh on REST API. The current time is: "
 				+ new Date();
+		//Test
 	}
 }
